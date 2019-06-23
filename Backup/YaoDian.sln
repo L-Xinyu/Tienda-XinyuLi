@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\...\YaoDian\", ".", "{DF0E08B6-30C0-40B7-BC87-EC106EC52EF9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/YaoDian"
+		Debug.AspNetCompiler.PhysicalPath = "..\YaoDian\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\YaoDian\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/YaoDian"
+		Release.AspNetCompiler.PhysicalPath = "..\YaoDian\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\YaoDian\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53688"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0E08B6-30C0-40B7-BC87-EC106EC52EF9}.Debug|.NET.ActiveCfg = Debug|.NET
+		{DF0E08B6-30C0-40B7-BC87-EC106EC52EF9}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

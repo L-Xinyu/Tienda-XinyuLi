@@ -1,0 +1,42 @@
+div.login {
+	padding: 50px 0px 70px;
+}
+div.login .wrap {
+	border: 2px solid rgb(242, 242, 242); margin-bottom: 10px;
+}
+div.login .main {
+	border: 1px solid rgb(215, 215, 215);
+}
+div.login .title {
+	height: 40px; text-align: left; color: rgb(216, 216, 216); line-height: 40px; font-family: "Microsoft YaHei"; border-bottom-color: rgb(237, 237, 237); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+div.login .title strong {
+	padding: 0px 10px; color: rgb(49, 100, 175); font-size: 18px; font-weight: normal;
+}
+div.login table {
+	width: 100%; margin-top: 10px;
+}
+div.login th {
+	padding: 12px; width: 90px; text-align: right; font-weight: normal;
+}
+div.login .captcha {
+	width: 130px; text-transform: uppercase; -ms-ime-mode: disabled;
+}
+div.login .captchaImage {
+	width: 80px; height: 30px; margin-left: 10px; vertical-align: middle; cursor: pointer;
+}
+div.login .submit {
+	background: url("../images/login.png") no-repeat 0px 0px; border: currentColor; width: 100px; height: 35px; color: rgb(255, 255, 255); line-height: 35px; margin-bottom: 10px; cursor: pointer;
+}
+div.login .register {
+	background-color: rgb(243, 243, 243);
+}
+div.login .register dt {
+	color: rgb(204, 6, 45); line-height: 40px; font-family: "Microsoft YaHei"; font-size: 18px;
+}
+div.login .register dd {
+	color: rgb(86, 86, 86); line-height: 30px;
+}
+div.login .register dd a {
+	color: rgb(49, 100, 175);
+}
